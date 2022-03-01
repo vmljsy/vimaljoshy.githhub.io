@@ -12,3 +12,13 @@ main {
 .icons-social a svg path{
 	fill: #AF3D4E;
 }
+
+a {
+  color: #AF3D4E;
+}
+a:visited {
+  color: #5c0d12;
+}
+a:hover, a:active, a:focus {
+  color:#ff2949;
+}
